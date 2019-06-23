@@ -1,0 +1,290 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">MIT Texephyr</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- Strings related to MORE's list view -->
+    <string-array name="moreTabs">
+        <item>Volunteer Login</item>
+        <item>Campus Map</item>
+        <item>Official Website</item>
+        <item>TX Development Team</item>
+        <item>Gallery</item>
+    </string-array>
+
+    <string name="title_activity_events_tabbed">EventsTabbedActivity</string>
+    <string name="title_activity_volunteer_login">Volunteer Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="BrainstormingNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="BrainstormingImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="BrainstormingDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="BrainstormingRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="BrainstormingContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+
+
+    <string-array name="CodingNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="CodingImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="CodingDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="CodingRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="CodingContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+
+
+    <string-array name="RacingNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="RacingImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="RacingDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="RacingRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="RacingContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+
+
+    <string-array name="RobotsNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="RobotsImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="RobotsDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="RobotsRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="RobotsContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+
+
+    <string-array name="GamingNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="GamingImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="GamingDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="GamingRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="GamingContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+
+
+    <string-array name="SportsNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="SportsImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="SportsDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="SportsRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="SportsContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="WorkshopNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="WorkshopImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="WorkshopDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="WorkshopRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="WorkshopContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+</resources>
